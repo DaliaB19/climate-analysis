@@ -28,7 +28,7 @@ Un document de synthèse présentant :
 * les graphiques clés
 * les conclusions du projet
   
-📁 [Projet Température Terrestre_Analyse.pdf](https://github.com/DaliaB19/climate-analysis/blob/main/ProjetTempératureTerrestre_Analyse.pdf)
+📁 [Projet Température Terrestre_Analyse.pdf](https://github.com/DaliaB19/climate-analysis/blob/main/ProjetTemp%C3%A9ratureTerrestre_%20Analyse.pdf)
 
 ---
 
