@@ -28,7 +28,7 @@ Un document de synthèse présentant :
 * les graphiques clés
 * les conclusions du projet
 
-📁 `report/projet_temperature_terrestre.pdf`
+📁 `Projet Température Terrestre_Analyse.pdf`
 
 ---
 
