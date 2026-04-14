@@ -16,8 +16,7 @@ Ce projet est composé de 3 parties :
 * Création de visualisations
 * Analyse des tendances temporelles et géographiques
 
-📁 `Code_Python_Température_Terrestre.ipynb`
-
+📁 [Code_Python_Température_Terrestre.ipynb] (https://github.com/Dalia-Boutros/climate-analysis/blob/main/Code_Python_Température_Terrestre.ipynb)
 ---
 
 ### 📄 2. Rapport complet (PDF)
@@ -28,15 +27,14 @@ Un document de synthèse présentant :
 * les graphiques clés
 * les conclusions du projet
 
-📁 `Projet Température Terrestre_Analyse.pdf`
-
+📁 [Projet Température Terrestre_Analyse.pdf] (https://github.com/Dalia-Boutros/climate-analysis/blob/main/Projet Température Terrestre_Analyse.pdf)
 ---
 
 ### 📊 3. Application interactive (Streamlit)
 
 Une application permettant de visualiser les résultats de manière interactive pour une présentation orale.
 
-📁 `streamlit_fin.py`
+📁 [streamlit_fin.py] (https://github.com/Dalia-Boutros/climate-analysis/blob/main/streamlit_fin.py)
 
 ---
 
